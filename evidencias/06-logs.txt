@@ -1,0 +1,11 @@
+﻿
+## 6. Logs do container
+docker : AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. 
+Set the 'ServerName' directive globally to suppress this message
+No C:\Users\caval\AppData\Local\Temp\ps-script-16f05a32-d84e-42a9-96a3-5b94c962898b.ps1:128 caractere:57
++ ... 8 evidencias\06-logs.txt; docker logs meu-site-container 2>&1 | Out-S ...
++                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (AH00558: apache...ss this message:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+

@@ -1,0 +1,4 @@
+﻿## 4. Container em execucao
+CONTAINER ID   IMAGE      COMMAND                  CREATED          STATUS          PORTS                                     NAMES
+e95d7ff93e02   meu-site   "apachectl -D FOREGR…"   35 seconds ago   Up 21 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   meu-site-container
+

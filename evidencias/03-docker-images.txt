@@ -1,0 +1,4 @@
+﻿## 3. Imagem Docker
+IMAGE             ID             DISK USAGE   CONTENT SIZE   EXTRA
+meu-site:latest   2703cb211dba        296MB         73.6MB   U    
+

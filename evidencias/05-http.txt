@@ -1,0 +1,19 @@
+﻿## 5. Resposta HTTP (localhost:8080)
+Status: 200
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Site - Container Docker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Meu Site no Docker</h1>
+    <p>AplicaÃ§Ã£o web servida a partir de um container Debian (trixie).</p>
+    <p class="ok">Container em execuÃ§Ã£o</p>
+  </main>
+</body>
+</html>
+

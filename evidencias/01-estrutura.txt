@@ -1,0 +1,11 @@
+﻿# Evidencias - Container Docker
+
+Data: 2026-10-25 15:28
+
+## 1. Estrutura do projeto
+site
+Dockerfile
+meu_site.tar
+README.md
+site\index.html
+site\style.css
