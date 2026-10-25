@@ -1,4 +1,4 @@
-# Meu Projeto — Site em Container Docker
+# Site em Container Docker
 
 Site HTML simples empacotado em `.tar` e servido por Apache em um container **Debian trixie**.
 
